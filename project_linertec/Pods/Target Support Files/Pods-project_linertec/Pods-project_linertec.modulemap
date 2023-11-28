@@ -1,0 +1,6 @@
+framework module Pods_project_linertec {
+  umbrella header "Pods-project_linertec-umbrella.h"
+
+  export *
+  module * { export * }
+}
